@@ -1,0 +1,9 @@
+<Alloy>
+    <Window backgroundColor="white" id="window" layout="vertical">
+    	<TextField hintText="dummy"></TextField>
+    	<View id="container">
+    	</View>
+    	<View id="container2">
+    	</View>
+    </Window>
+</Alloy>

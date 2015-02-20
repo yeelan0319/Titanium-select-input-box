@@ -1,0 +1,9 @@
+"#container": {
+	width: 200,
+	height: Ti.UI.SIZE
+}
+
+"#container2": {
+	width: 200,
+	height: Ti.UI.SIZE
+}
