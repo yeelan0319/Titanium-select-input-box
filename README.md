@@ -10,7 +10,6 @@ Basically it is a input box with some predefined datalist. As user input, the dr
 <br>
 
 ##How to use it
----
 The module is written in CommonJS style.
 Assuming you put it in the "/lib" folder under "/app" for an Alloy project.
 Then simply require it as following.
@@ -33,7 +32,6 @@ The constructor function will return you a selectInputBox object with the follow
 
 
 ##APIs
----
 ###getView()
 Returns the select input box view, so you can inject into some container in your view.
 
@@ -50,7 +48,6 @@ Blur the input box. If may be useful when you try to bind a event to window, so 
 
 <br>
 ##Static Parameters
----
 ###SELECT_ITEM_HEIGHT
 Set the default height of the selectable datalist view. 
 
@@ -64,7 +61,6 @@ Default: 8
 
 <br>
 ##Things need to be improved
----
 ####Android cannot hide the datalist properly
 The current version works fine with iOS. 
 
